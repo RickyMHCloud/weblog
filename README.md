@@ -1,0 +1,2 @@
+# weblog
+RickyMH Weblog
